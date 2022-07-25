@@ -1,0 +1,7 @@
+Python Pip库
+opencv-python
+dlib
+numpy
+-------------------受文件大小限制，我们放不下这些文件-------------
+shape_predictor68.dat文件
+Linker.PSD
