@@ -1,5 +1,5 @@
 # Linker
-Linker is a magic toolbox to create your own Live2D face.
+**Linker is a magic toolbox to create your own Live2D face.**
 
 Linker是我们的蓝桥杯虚拟形象赛道作品，主要通过OpenCV,OpenGL等库实现虚拟形象创作的设计功能，并且利用深度学习库进行纹理方面的增强
 
